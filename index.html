@@ -146,7 +146,7 @@
   <p>Select any of Florida's 67 counties below to see numbers specific to that county. You can also select a particular local fiscal year to see a column chart for just that year.</p>
   <div class="select">
     <select class="form-control form-control-lg" id="countySelect">
-     <!-- <option value="'All Counties'">All Counties</option> -->
+      <option value="'All Counties'">All Counties</option>
       <option value="'Alachua'">Alachua</option>
       <option value="'Baker'">Baker</option>
       <option value="'Bay'">Bay</option>
@@ -315,14 +315,14 @@ d3.json("https://helgonio.github.io/ctdallocationstudy/data/public-roads/daily_v
   var chart = c3.generate({
     bindto: d3.select('#singleyear'),
     data: {
-      json: yearData,
+      json: yearsData,
       keys: {
         x: 'key',
         value: [
           'value'
         ]
       },
-      type: 'bar',
+      type: 'bar'
     },
     bar: {
       width: {
