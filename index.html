@@ -348,7 +348,7 @@ d3.json("https://helgonio.github.io/ctdallocationstudy/data/public-roads/daily_v
           return yearsData[index]['key'];
         },
         value: function(value) {
-          return '$' + d3.format(',')(value);
+          return d3.format(',')(value);
         }
       }
     },
