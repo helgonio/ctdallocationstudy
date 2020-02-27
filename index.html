@@ -454,7 +454,7 @@ d3.json("https://helgonio.github.io/ctdallocationstudy/data/public-roads/daily_v
     tooltip: {
       format: {
         title: function (d) {
-          return 'TOTAL EXPENDITURES: $' + d3.format(",")(yearData[yearData.length - 1]['value']);
+          return 'Daily Vehicle Miles Traveled: ' + d3.format(",")(yearData[yearData.length - 1]['value']);
         },
         name: function(name, ratio, id, index) {
           return yearsData[index]['key'];
