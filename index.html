@@ -315,15 +315,14 @@ d3.json("https://helgonio.github.io/ctdallocationstudy/data/public-roads/daily_v
   var chart = c3.generate({
     bindto: d3.select('#singleyear'),
     data: {
-      json: yearsData,
+      json: yearData,
       keys: {
-        x: 'YEAR',
+        x: 'key',
         value: [
           'value'
         ]
       },
-      type: 'bar',
-      groups: [["Rural", "Small Urban", "Small Urbanized", "Large Urbanized"]]
+      type: 'pie',
     },
     bar: {
       width: {
