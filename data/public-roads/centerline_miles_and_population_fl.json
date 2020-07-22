@@ -1,0 +1,3888 @@
+{
+   "Alachua": [
+      {
+         "YEAR": 2018,
+         "Rural": 759.554,
+         "Small Urban": 0,
+         "Small Urbanized": 1060.6,
+         "Large Urbanized": 0,
+         "Population": 248012
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 758.399,
+         "Small Urban": 0,
+         "Small Urbanized": 1056.263,
+         "Large Urbanized": 0,
+         "Population": 244428
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 755.633,
+         "Small Urban": 0,
+         "Small Urbanized": 1047.583,
+         "Large Urbanized": 0,
+         "Population": 241009
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 753.082,
+         "Small Urban": 0,
+         "Small Urbanized": 1039.66,
+         "Large Urbanized": 0,
+         "Population": 239002
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 763.707,
+         "Small Urban": 0,
+         "Small Urbanized": 1072.795,
+         "Large Urbanized": 0,
+         "Population": 236720
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 814.78,
+         "Small Urban": 0,
+         "Small Urbanized": 1020.922,
+         "Large Urbanized": 0,
+         "Population": 234774
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 812.483,
+         "Small Urban": 0,
+         "Small Urbanized": 1014.607,
+         "Large Urbanized": 0,
+         "Population": 232741
+      }
+   ],
+   "Baker": [
+      {
+         "YEAR": 2018,
+         "Rural": 733.736,
+         "Small Urban": 301.07,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 25030
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 733.736,
+         "Small Urban": 301.07,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 24903
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 733.755,
+         "Small Urban": 301.051,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 24397
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 733.755,
+         "Small Urban": 301.051,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 24216
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 734.209,
+         "Small Urban": 301.051,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 24322
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 771.024,
+         "Small Urban": 264.239,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 24530
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 770.619,
+         "Small Urban": 264.244,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 24529
+      }
+   ],
+   "Bay": [
+      {
+         "YEAR": 2018,
+         "Rural": 265.746,
+         "Small Urban": 51.148,
+         "Small Urbanized": 1222.078,
+         "Large Urbanized": 0,
+         "Population": 177112
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 270.391,
+         "Small Urban": 52.482,
+         "Small Urbanized": 1254.806,
+         "Large Urbanized": 0,
+         "Population": 175006
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 270.254,
+         "Small Urban": 52.443,
+         "Small Urbanized": 1253.842,
+         "Large Urbanized": 0,
+         "Population": 173541
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 269.702,
+         "Small Urban": 52.284,
+         "Small Urbanized": 1249.952,
+         "Large Urbanized": 0,
+         "Population": 170424
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 270.215,
+         "Small Urban": 52.432,
+         "Small Urbanized": 1253.571,
+         "Large Urbanized": 0,
+         "Population": 167641
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 247.273,
+         "Small Urban": 0,
+         "Small Urbanized": 1327.795,
+         "Large Urbanized": 0,
+         "Population": 164868
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 247.159,
+         "Small Urban": 0,
+         "Small Urbanized": 1326.85,
+         "Large Urbanized": 0,
+         "Population": 161794
+      }
+   ],
+   "Bradford": [
+      {
+         "YEAR": 2018,
+         "Rural": 265.122,
+         "Small Urban": 183.947,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 23301
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 265.122,
+         "Small Urban": 183.947,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 23378
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 265.923,
+         "Small Urban": 184.956,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 23550
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 265.361,
+         "Small Urban": 184.468,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 23809
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 265.361,
+         "Small Urban": 184.468,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 23821
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 267.082,
+         "Small Urban": 182.697,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 24126
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 267.082,
+         "Small Urban": 182.697,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 24183
+      }
+   ],
+   "Brevard": [
+      {
+         "YEAR": 2018,
+         "Rural": 396.412,
+         "Small Urban": 0,
+         "Small Urbanized": 418.701,
+         "Large Urbanized": 2765.677,
+         "Population": 569080
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 398.046,
+         "Small Urban": 0,
+         "Small Urbanized": 417.847,
+         "Large Urbanized": 2757.179,
+         "Population": 560611
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 398.022,
+         "Small Urban": 0,
+         "Small Urbanized": 417.791,
+         "Large Urbanized": 2756.839,
+         "Population": 553005
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 396.764,
+         "Small Urban": 0,
+         "Small Urbanized": 414.917,
+         "Large Urbanized": 2736.183,
+         "Population": 545625
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 393.94,
+         "Small Urban": 0,
+         "Small Urbanized": 408.465,
+         "Large Urbanized": 2689.968,
+         "Population": 540486
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 378.124,
+         "Small Urban": 0,
+         "Small Urbanized": 437.21,
+         "Large Urbanized": 2674.137,
+         "Population": 536841
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 378.463,
+         "Small Urban": 0,
+         "Small Urbanized": 437.107,
+         "Large Urbanized": 2673.111,
+         "Population": 534307
+      }
+   ],
+   "Broward": [
+      {
+         "YEAR": 2018,
+         "Rural": 56.382,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 5037.262,
+         "Population": 1891191
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 56.367,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 5026.409,
+         "Population": 1873008
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 56.359,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 5021.427,
+         "Population": 1847207
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 56.381,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 5034.103,
+         "Population": 1826504
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 56.39,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 5040.825,
+         "Population": 1798893
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 56.627,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 5018.802,
+         "Population": 1768107
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 56.624,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 5018.005,
+         "Population": 1744805
+      }
+   ],
+   "Calhoun": [
+      {
+         "YEAR": 2018,
+         "Rural": 593.681,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 12336
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 593.599,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 12362
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 593.599,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 12379
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 593.804,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 12460
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 593.804,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 12530
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 593.804,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 12579
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 593.804,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 12529
+      }
+   ],
+   "Charlotte": [
+      {
+         "YEAR": 2018,
+         "Rural": 269.22,
+         "Small Urban": 0,
+         "Small Urbanized": 1507.976,
+         "Large Urbanized": 509.772,
+         "Population": 173273
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 269.267,
+         "Small Urban": 0,
+         "Small Urbanized": 1508.31,
+         "Large Urbanized": 509.882,
+         "Population": 169294
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 269.307,
+         "Small Urban": 0,
+         "Small Urbanized": 1508.246,
+         "Large Urbanized": 510.035,
+         "Population": 165738
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 269.45,
+         "Small Urban": 0,
+         "Small Urbanized": 1509.257,
+         "Large Urbanized": 508.881,
+         "Population": 162081
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 269.662,
+         "Small Urban": 0,
+         "Small Urbanized": 1510.771,
+         "Large Urbanized": 509.395,
+         "Population": 159787
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 308.484,
+         "Small Urban": 0,
+         "Small Urbanized": 1511.373,
+         "Large Urbanized": 469.931,
+         "Population": 157929
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 306.219,
+         "Small Urban": 0,
+         "Small Urbanized": 1495.369,
+         "Large Urbanized": 465.864,
+         "Population": 157354
+      }
+   ],
+   "Citrus": [
+      {
+         "YEAR": 2018,
+         "Rural": 938.12,
+         "Small Urban": 152.252,
+         "Small Urbanized": 1408.293,
+         "Large Urbanized": 0,
+         "Population": 140400
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 938.12,
+         "Small Urban": 152.252,
+         "Small Urbanized": 1408.293,
+         "Large Urbanized": 0,
+         "Population": 138735
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 938.12,
+         "Small Urban": 152.252,
+         "Small Urbanized": 1408.293,
+         "Large Urbanized": 0,
+         "Population": 137705
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 938.12,
+         "Small Urban": 152.252,
+         "Small Urbanized": 1408.293,
+         "Large Urbanized": 0,
+         "Population": 136975
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 939.582,
+         "Small Urban": 152.495,
+         "Small Urbanized": 1405.609,
+         "Large Urbanized": 0,
+         "Population": 137050
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 1239.04,
+         "Small Urban": 1251.736,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 137584
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 1239.029,
+         "Small Urban": 1247.547,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 138067
+      }
+   ],
+   "Clay": [
+      {
+         "YEAR": 2018,
+         "Rural": 251.219,
+         "Small Urban": 40.797,
+         "Small Urbanized": 0,
+         "Large Urbanized": 949.016,
+         "Population": 203597
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 250.869,
+         "Small Urban": 40.743,
+         "Small Urbanized": 0,
+         "Large Urbanized": 947.14,
+         "Population": 199576
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 250.476,
+         "Small Urban": 40.694,
+         "Small Urbanized": 0,
+         "Large Urbanized": 944.944,
+         "Population": 196578
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 249.685,
+         "Small Urban": 40.571,
+         "Small Urbanized": 0,
+         "Large Urbanized": 940.699,
+         "Population": 193755
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 249.611,
+         "Small Urban": 40.56,
+         "Small Urbanized": 0,
+         "Large Urbanized": 940.365,
+         "Population": 191007
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 353.248,
+         "Small Urban": 127.115,
+         "Small Urbanized": 0,
+         "Large Urbanized": 745.462,
+         "Population": 188854
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 341.208,
+         "Small Urban": 121.867,
+         "Small Urbanized": 0,
+         "Large Urbanized": 712.611,
+         "Population": 187214
+      }
+   ],
+   "Collier": [
+      {
+         "YEAR": 2018,
+         "Rural": 398.442,
+         "Small Urban": 131.01,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1125.643,
+         "Population": 360300
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 396.982,
+         "Small Urban": 130.577,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1121.99,
+         "Population": 353207
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 396.76,
+         "Small Urban": 130.359,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1120.209,
+         "Population": 344653
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 395.19,
+         "Small Urban": 128.688,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1106.13,
+         "Population": 337433
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 429.317,
+         "Small Urban": 129.293,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1108.558,
+         "Population": 331156
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 458.814,
+         "Small Urban": 195.136,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1046.358,
+         "Population": 324831
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 458.834,
+         "Small Urban": 195.083,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1045.991,
+         "Population": 320022
+      }
+   ],
+   "Columbia": [
+      {
+         "YEAR": 2018,
+         "Rural": 1066.553,
+         "Small Urban": 474.188,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 64012
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 1065.401,
+         "Small Urban": 476.54,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 63433
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 1069.509,
+         "Small Urban": 476.598,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 63153
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 1069.509,
+         "Small Urban": 476.598,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 62879
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 1070.998,
+         "Small Urban": 475.409,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 63089
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 1099.056,
+         "Small Urban": 380.311,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 63437
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 1094.466,
+         "Small Urban": 380.311,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 63702
+      }
+   ],
+   "Desoto": [
+      {
+         "YEAR": 2018,
+         "Rural": 307.218,
+         "Small Urban": 194.19,
+         "Small Urbanized": 13.432,
+         "Large Urbanized": 0,
+         "Population": 34529
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 307.218,
+         "Small Urban": 194.19,
+         "Small Urbanized": 13.432,
+         "Large Urbanized": 0,
+         "Population": 33752
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 307.218,
+         "Small Urban": 194.19,
+         "Small Urbanized": 13.432,
+         "Large Urbanized": 0,
+         "Population": 33152
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 307.218,
+         "Small Urban": 194.148,
+         "Small Urbanized": 13.432,
+         "Large Urbanized": 0,
+         "Population": 33016
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 307.218,
+         "Small Urban": 194.148,
+         "Small Urbanized": 13.432,
+         "Large Urbanized": 0,
+         "Population": 32670
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 314.248,
+         "Small Urban": 193.627,
+         "Small Urbanized": 6.903,
+         "Large Urbanized": 0,
+         "Population": 32397
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 314.232,
+         "Small Urban": 193.642,
+         "Small Urbanized": 6.903,
+         "Large Urbanized": 0,
+         "Population": 32319
+      }
+   ],
+   "Dixie": [
+      {
+         "YEAR": 2018,
+         "Rural": 585.593,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 14735
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 585.593,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 14672
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 585.593,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 14446
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 585.593,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 14493
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 585.593,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 14775
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 585.593,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 15176
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 585.593,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 15555
+      }
+   ],
+   "Duval": [
+      {
+         "YEAR": 2018,
+         "Rural": 181.804,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 4455.548,
+         "Population": 896465
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 181.375,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 4444.3,
+         "Population": 884701
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 180.821,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 4427.139,
+         "Population": 873783
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 180.687,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 4421.365,
+         "Population": 865257
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 179.843,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 4399.899,
+         "Population": 855318
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 176.463,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 4403.28,
+         "Population": 848291
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 176.688,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 4398.655,
+         "Population": 841990
+      }
+   ],
+   "Escambia": [
+      {
+         "YEAR": 2018,
+         "Rural": 363.749,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1859.034,
+         "Population": 289386
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 363.562,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1857.641,
+         "Population": 287562
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 363.308,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1855.765,
+         "Population": 286145
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 363.181,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1854.832,
+         "Population": 283624
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 363.061,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1853.942,
+         "Population": 280335
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 364.444,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1851.659,
+         "Population": 276818
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 364.42,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1851.483,
+         "Population": 274713
+      }
+   ],
+   "Flagler": [
+      {
+         "YEAR": 2018,
+         "Rural": 183.232,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 806.63,
+         "Population": 105979
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 182.883,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 803.601,
+         "Population": 103895
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 182.517,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 803.967,
+         "Population": 101828
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 182.444,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 803.32,
+         "Population": 99771
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 182.431,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 803.213,
+         "Population": 98136
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 296.137,
+         "Small Urban": 598.515,
+         "Small Urbanized": 0,
+         "Large Urbanized": 90.992,
+         "Population": 96403
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 294.353,
+         "Small Urban": 598.515,
+         "Small Urbanized": 0,
+         "Large Urbanized": 90.776,
+         "Population": 95149
+      }
+   ],
+   "Franklin": [
+      {
+         "YEAR": 2018,
+         "Rural": 400.954,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 10125
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 413.244,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 10009
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 411.914,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 9961
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 411.914,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 9756
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 411.914,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 9711
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 413.512,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 9574
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 413.512,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 9510
+      }
+   ],
+   "Gadsden": [
+      {
+         "YEAR": 2018,
+         "Rural": 738.566,
+         "Small Urban": 228.533,
+         "Small Urbanized": 0,
+         "Large Urbanized": 18.007,
+         "Population": 42632
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 738.566,
+         "Small Urban": 228.533,
+         "Small Urbanized": 0,
+         "Large Urbanized": 18.007,
+         "Population": 42909
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 737.717,
+         "Small Urban": 228.185,
+         "Small Urbanized": 0,
+         "Large Urbanized": 17.991,
+         "Population": 43168
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 737.393,
+         "Small Urban": 228.018,
+         "Small Urbanized": 0,
+         "Large Urbanized": 17.983,
+         "Population": 43892
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 737.393,
+         "Small Urban": 226.446,
+         "Small Urbanized": 0,
+         "Large Urbanized": 17.983,
+         "Population": 44447
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 801.224,
+         "Small Urban": 180.598,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 44480
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 801.224,
+         "Small Urban": 180.598,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 44463
+      }
+   ],
+   "Gilchrist": [
+      {
+         "YEAR": 2018,
+         "Rural": 577.776,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 16203
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 577.776,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 15790
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 577.776,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 15656
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 577.776,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 15748
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 577.776,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 15708
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 577.276,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 15683
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 577.276,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 15692
+      }
+   ],
+   "Glades": [
+      {
+         "YEAR": 2018,
+         "Rural": 375.716,
+         "Small Urban": 11.805,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 12125
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 374.316,
+         "Small Urban": 11.805,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 11904
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 374.316,
+         "Small Urban": 11.805,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 12092
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 372.394,
+         "Small Urban": 11.727,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 11916
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 366.894,
+         "Small Urban": 11.727,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 11876
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 374.275,
+         "Small Urban": 0.346,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 11831
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 372.875,
+         "Small Urban": 0.346,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 11802
+      }
+   ],
+   "Gulf": [
+      {
+         "YEAR": 2018,
+         "Rural": 419.41,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 13605
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 419.41,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 13587
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 419.41,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 13500
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 419.41,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 13432
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 419.41,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 13507
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 419.41,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 13460
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 419.41,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 13347
+      }
+   ],
+   "Hamilton": [
+      {
+         "YEAR": 2018,
+         "Rural": 508.702,
+         "Small Urban": 156.728,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 10987
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 508.702,
+         "Small Urban": 156.728,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 10897
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 508.702,
+         "Small Urban": 156.728,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 10989
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 508.702,
+         "Small Urban": 156.728,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 11040
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 508.702,
+         "Small Urban": 156.728,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 11120
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 665.43,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 11391
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 665.43,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 11546
+      }
+   ],
+   "Hardee": [
+      {
+         "YEAR": 2018,
+         "Rural": 488.531,
+         "Small Urban": 161.194,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 25381
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 488.828,
+         "Small Urban": 160.584,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 25481
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 488.696,
+         "Small Urban": 160.516,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 25421
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 490.392,
+         "Small Urban": 161.39,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 25643
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 489.514,
+         "Small Urban": 160.938,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 25702
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 489.844,
+         "Small Urban": 161.528,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 25517
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 506.476,
+         "Small Urban": 170.096,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 25520
+      }
+   ],
+   "Hendry": [
+      {
+         "YEAR": 2018,
+         "Rural": 439.71,
+         "Small Urban": 181.965,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 39441
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 439.71,
+         "Small Urban": 181.965,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 38220
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 439.71,
+         "Small Urban": 181.965,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 37209
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 440.657,
+         "Small Urban": 181.126,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 36744
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 439.057,
+         "Small Urban": 181.126,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 36371
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 407.778,
+         "Small Urban": 209.051,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 36137
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 394.404,
+         "Small Urban": 209.025,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 36346
+      }
+   ],
+   "Hernando": [
+      {
+         "YEAR": 2018,
+         "Rural": 490.172,
+         "Small Urban": 0,
+         "Small Urbanized": 1322.109,
+         "Large Urbanized": 0,
+         "Population": 179997
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 489.949,
+         "Small Urban": 0,
+         "Small Urbanized": 1322.109,
+         "Large Urbanized": 0,
+         "Population": 176374
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 488.611,
+         "Small Urban": 0,
+         "Small Urbanized": 1322.237,
+         "Large Urbanized": 0,
+         "Population": 173776
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 488.588,
+         "Small Urban": 0,
+         "Small Urbanized": 1322.15,
+         "Large Urbanized": 0,
+         "Population": 171786
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 488.521,
+         "Small Urban": 0,
+         "Small Urbanized": 1321.897,
+         "Large Urbanized": 0,
+         "Population": 170918
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 572.79,
+         "Small Urban": 0,
+         "Small Urbanized": 1237.628,
+         "Large Urbanized": 0,
+         "Population": 170576
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 573.959,
+         "Small Urban": 0,
+         "Small Urbanized": 1236.459,
+         "Large Urbanized": 0,
+         "Population": 170166
+      }
+   ],
+   "Highlands": [
+      {
+         "YEAR": 2018,
+         "Rural": 465.307,
+         "Small Urban": 260.186,
+         "Small Urbanized": 953.622,
+         "Large Urbanized": 0,
+         "Population": 100625
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 464.855,
+         "Small Urban": 259.832,
+         "Small Urbanized": 952.288,
+         "Large Urbanized": 0,
+         "Population": 98682
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 462.946,
+         "Small Urban": 258.338,
+         "Small Urbanized": 946.66,
+         "Large Urbanized": 0,
+         "Population": 97427
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 471.336,
+         "Small Urban": 264.902,
+         "Small Urbanized": 971.417,
+         "Large Urbanized": 0,
+         "Population": 97046
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 469.371,
+         "Small Urban": 263.417,
+         "Small Urbanized": 965.357,
+         "Large Urbanized": 0,
+         "Population": 96987
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 677.353,
+         "Small Urban": 1016.373,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 96700
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 677.884,
+         "Small Urban": 1017.402,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 97157
+      }
+   ],
+   "Hillsborough": [
+      {
+         "YEAR": 2018,
+         "Rural": 296.919,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 5021.872,
+         "Population": 1353515
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 296.099,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 4999.372,
+         "Population": 1325296
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 295.438,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 4981.597,
+         "Population": 1297770
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 295.667,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 4987.954,
+         "Population": 1277643
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 290.538,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 4934.466,
+         "Population": 1255058
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 393.383,
+         "Small Urban": 148.662,
+         "Small Urbanized": 0.348,
+         "Large Urbanized": 4669.761,
+         "Population": 1233386
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 393.787,
+         "Small Urban": 148.873,
+         "Small Urbanized": 0.348,
+         "Large Urbanized": 4676.296,
+         "Population": 1214663
+      }
+   ],
+   "Holmes": [
+      {
+         "YEAR": 2018,
+         "Rural": 937.622,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 17532
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 934.102,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 17568
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 934.102,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 17578
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 934.102,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 17607
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 934.102,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 17710
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 934.762,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 18002
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 935.072,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 18112
+      }
+   ],
+   "Indian River": [
+      {
+         "YEAR": 2018,
+         "Rural": 123.732,
+         "Small Urban": 32.937,
+         "Small Urbanized": 952.1,
+         "Large Urbanized": 0,
+         "Population": 149299
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 124.611,
+         "Small Urban": 32.802,
+         "Small Urbanized": 948.525,
+         "Large Urbanized": 0,
+         "Population": 146458
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 124.604,
+         "Small Urban": 32.796,
+         "Small Urbanized": 948.389,
+         "Large Urbanized": 0,
+         "Population": 143648
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 124.42,
+         "Small Urban": 32.654,
+         "Small Urbanized": 945.005,
+         "Large Urbanized": 0,
+         "Population": 141133
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 124.181,
+         "Small Urban": 32.47,
+         "Small Urbanized": 940.648,
+         "Large Urbanized": 0,
+         "Population": 139293
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 185.595,
+         "Small Urban": 0,
+         "Small Urbanized": 911.274,
+         "Large Urbanized": 0,
+         "Population": 137669
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 185.563,
+         "Small Urban": 0,
+         "Small Urbanized": 910.176,
+         "Large Urbanized": 0,
+         "Population": 136427
+      }
+   ],
+   "Jackson": [
+      {
+         "YEAR": 2018,
+         "Rural": 1547.315,
+         "Small Urban": 190.079,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 40430
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 1547.315,
+         "Small Urban": 190.079,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 40623
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 1547.315,
+         "Small Urban": 190.079,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 40794
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 1547.315,
+         "Small Urban": 190.079,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 41057
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 1537.233,
+         "Small Urban": 190.038,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 41237
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 1542.389,
+         "Small Urban": 192.882,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 41524
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 1536.595,
+         "Small Urban": 191.946,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 41693
+      }
+   ],
+   "Jefferson": [
+      {
+         "YEAR": 2018,
+         "Rural": 693.853,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 11767
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 693.853,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 11502
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 693.853,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 11535
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 693.853,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 11704
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 693.853,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 12146
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 693.878,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 12571
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 693.878,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 12916
+      }
+   ],
+   "Lafayette": [
+      {
+         "YEAR": 2018,
+         "Rural": 490.83,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 7180
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 490.83,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 7106
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 490.92,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 7056
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 490.17,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 7014
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 490.12,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 7299
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 490.12,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 7455
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 490.62,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 7634
+      }
+   ],
+   "Lake": [
+      {
+         "YEAR": 2018,
+         "Rural": 657.929,
+         "Small Urban": 96.674,
+         "Small Urbanized": 1043.93,
+         "Large Urbanized": 616.129,
+         "Population": 331204
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 650.957,
+         "Small Urban": 88.764,
+         "Small Urbanized": 1033.58,
+         "Large Urbanized": 604.322,
+         "Population": 322033
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 648.787,
+         "Small Urban": 87.674,
+         "Small Urbanized": 1029.025,
+         "Large Urbanized": 601.247,
+         "Population": 313459
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 644.72,
+         "Small Urban": 84.574,
+         "Small Urbanized": 1027.01,
+         "Large Urbanized": 598.539,
+         "Population": 306385
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 653.627,
+         "Small Urban": 83.484,
+         "Small Urbanized": 1049.748,
+         "Large Urbanized": 610.328,
+         "Population": 300739
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 948.126,
+         "Small Urban": 314.695,
+         "Small Urbanized": 1084.853,
+         "Large Urbanized": 39.935,
+         "Population": 296877
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 956.994,
+         "Small Urban": 312.899,
+         "Small Urbanized": 1086.27,
+         "Large Urbanized": 39.996,
+         "Population": 294093
+      }
+   ],
+   "Lee": [
+      {
+         "YEAR": 2018,
+         "Rural": 873.206,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3699.341,
+         "Population": 708389
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 875.683,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3714.727,
+         "Population": 689344
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 867.202,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3691.539,
+         "Population": 670517
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 869.432,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3695.138,
+         "Population": 653128
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 870.416,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3694.154,
+         "Population": 637495
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 1159.611,
+         "Small Urban": 275.746,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3122.923,
+         "Population": 624846
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 1159.117,
+         "Small Urban": 275.582,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3116.586,
+         "Population": 615512
+      }
+   ],
+   "Leon": [
+      {
+         "YEAR": 2018,
+         "Rural": 426.198,
+         "Small Urban": 12.168,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1217.715,
+         "Population": 275351
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 423.489,
+         "Small Urban": 12.008,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1198.554,
+         "Population": 273447
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 423.145,
+         "Small Urban": 11.988,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1196.135,
+         "Population": 272402
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 422.775,
+         "Small Urban": 11.966,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1193.531,
+         "Population": 270098
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 421.574,
+         "Small Urban": 11.895,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1185.132,
+         "Population": 267555
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 416.834,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1190.28,
+         "Population": 264783
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 420.439,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1189.765,
+         "Population": 261842
+      }
+   ],
+   "Levy": [
+      {
+         "YEAR": 2018,
+         "Rural": 1339.88,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 39479
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 1339.88,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 39199
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 1339.88,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 39046
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 1339.88,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 39078
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 1339.914,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 39266
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 1339.914,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 39491
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 1339.926,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 39594
+      }
+   ],
+   "Liberty": [
+      {
+         "YEAR": 2018,
+         "Rural": 813.71,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 6945
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 813.71,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 6900
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 813.657,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 6773
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 813.657,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 6736
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 813.657,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 6702
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 808.065,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 6716
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 796.465,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 6772
+      }
+   ],
+   "Madison": [
+      {
+         "YEAR": 2018,
+         "Rural": 878.725,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 16348
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 878.725,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 16446
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 878.725,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 16515
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 878.725,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 16632
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 878.725,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 16733
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 878.225,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 16926
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 878.225,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 17040
+      }
+   ],
+   "Manatee": [
+      {
+         "YEAR": 2018,
+         "Rural": 309.785,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1658.031,
+         "Population": 369463
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 309.779,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1650.967,
+         "Population": 359212
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 308.632,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1637.844,
+         "Population": 349187
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 308.368,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1634.898,
+         "Population": 339349
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 305.559,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1603.257,
+         "Population": 331651
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 311.859,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1595.067,
+         "Population": 325080
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 311.731,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1593.685,
+         "Population": 320411
+      }
+   ],
+   "Marion": [
+      {
+         "YEAR": 2018,
+         "Rural": 1702.476,
+         "Small Urban": 200.527,
+         "Small Urbanized": 2134.21,
+         "Large Urbanized": 0,
+         "Population": 337838
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 1715.815,
+         "Small Urban": 202.884,
+         "Small Urbanized": 2158.951,
+         "Large Urbanized": 0,
+         "Population": 333735
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 1715.012,
+         "Small Urban": 202.469,
+         "Small Urbanized": 2155.012,
+         "Large Urbanized": 0,
+         "Population": 330681
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 1683.664,
+         "Small Urban": 196.929,
+         "Small Urbanized": 2096.87,
+         "Large Urbanized": 0,
+         "Population": 327293
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 1684.111,
+         "Small Urban": 196.818,
+         "Small Urbanized": 2095.707,
+         "Large Urbanized": 0,
+         "Population": 325685
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 1957.527,
+         "Small Urban": 254.963,
+         "Small Urbanized": 1745.83,
+         "Large Urbanized": 0,
+         "Population": 325097
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 1912.282,
+         "Small Urban": 255.125,
+         "Small Urbanized": 1745.644,
+         "Large Urbanized": 0,
+         "Population": 323624
+      }
+   ],
+   "Martin": [
+      {
+         "YEAR": 2018,
+         "Rural": 193.641,
+         "Small Urban": 34.093,
+         "Small Urbanized": 0,
+         "Large Urbanized": 514.422,
+         "Population": 154177
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 195.265,
+         "Small Urban": 34.944,
+         "Small Urbanized": 0,
+         "Large Urbanized": 531.087,
+         "Population": 152439
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 194.902,
+         "Small Urban": 34.754,
+         "Small Urbanized": 0,
+         "Large Urbanized": 527.343,
+         "Population": 150330
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 194.91,
+         "Small Urban": 34.758,
+         "Small Urbanized": 0,
+         "Large Urbanized": 527.496,
+         "Population": 148472
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 194.852,
+         "Small Urban": 34.727,
+         "Small Urbanized": 0,
+         "Large Urbanized": 527.251,
+         "Population": 146563
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 206.959,
+         "Small Urban": 21.705,
+         "Small Urbanized": 0,
+         "Large Urbanized": 525.146,
+         "Population": 144707
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 206.811,
+         "Small Urban": 21.651,
+         "Small Urbanized": 0,
+         "Large Urbanized": 524.038,
+         "Population": 143516
+      }
+   ],
+   "Miami-Dade": [
+      {
+         "YEAR": 2018,
+         "Rural": 243.039,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 7021.7,
+         "Population": 2674929
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 243.09,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 7034.138,
+         "Population": 2660628
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 243.075,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 7029.65,
+         "Population": 2621533
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 243.057,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 7024.673,
+         "Population": 2596865
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 275.163,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 7051.537,
+         "Population": 2555305
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 311.212,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 7013.122,
+         "Population": 2500457
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 311.416,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 7016.008,
+         "Population": 2461732
+      }
+   ],
+   "Monroe": [
+      {
+         "YEAR": 2018,
+         "Rural": 125.975,
+         "Small Urban": 602.965,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 74156
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 133.124,
+         "Small Urban": 680.514,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 74512
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 133.126,
+         "Small Urban": 680.532,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 75101
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 133.134,
+         "Small Urban": 680.679,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 73943
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 141.134,
+         "Small Urban": 680.679,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 72935
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 179.708,
+         "Small Urban": 642.175,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 72090
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 179.705,
+         "Small Urban": 642.208,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 71393
+      }
+   ],
+   "Nassau": [
+      {
+         "YEAR": 2018,
+         "Rural": 257.238,
+         "Small Urban": 534.698,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 79370
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 257.238,
+         "Small Urban": 534.698,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 77261
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 280.701,
+         "Small Urban": 780.805,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 75957
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 280.761,
+         "Small Urban": 780.779,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 74630
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 280.768,
+         "Small Urban": 780.885,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 73613
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 686.263,
+         "Small Urban": 375.39,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 72830
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 686.263,
+         "Small Urban": 375.482,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 71942
+      }
+   ],
+   "Okaloosa": [
+      {
+         "YEAR": 2018,
+         "Rural": 325.848,
+         "Small Urban": 260.555,
+         "Small Urbanized": 997.858,
+         "Large Urbanized": 0,
+         "Population": 187855
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 327.853,
+         "Small Urban": 263.528,
+         "Small Urbanized": 1009.456,
+         "Large Urbanized": 0,
+         "Population": 185104
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 326.23,
+         "Small Urban": 263.386,
+         "Small Urbanized": 1008.903,
+         "Large Urbanized": 0,
+         "Population": 183237
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 325.86,
+         "Small Urban": 262.836,
+         "Small Urbanized": 1006.843,
+         "Large Urbanized": 0,
+         "Population": 180523
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 325.767,
+         "Small Urban": 262.699,
+         "Small Urbanized": 1006.332,
+         "Large Urbanized": 0,
+         "Population": 177862
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 322.091,
+         "Small Urban": 192.547,
+         "Small Urbanized": 1068.387,
+         "Large Urbanized": 0,
+         "Population": 174271
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 318.264,
+         "Small Urban": 189.567,
+         "Small Urbanized": 1050.676,
+         "Large Urbanized": 0,
+         "Population": 171940
+      }
+   ],
+   "Okeechobee": [
+      {
+         "YEAR": 2018,
+         "Rural": 273.06,
+         "Small Urban": 262.705,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 37397
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 273.014,
+         "Small Urban": 262.626,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 37033
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 272.992,
+         "Small Urban": 262.588,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 36008
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 272.992,
+         "Small Urban": 262.588,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 35907
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 273.189,
+         "Small Urban": 262.931,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 36405
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 298.475,
+         "Small Urban": 234.535,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 37013
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 298.475,
+         "Small Urban": 234.535,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 37780
+      }
+   ],
+   "Orange": [
+      {
+         "YEAR": 2018,
+         "Rural": 169.611,
+         "Small Urban": 14.563,
+         "Small Urbanized": 0,
+         "Large Urbanized": 4533.518,
+         "Population": 1287413
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 168.997,
+         "Small Urban": 14.48,
+         "Small Urbanized": 0,
+         "Large Urbanized": 4507.087,
+         "Population": 1256141
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 168.006,
+         "Small Urban": 14.347,
+         "Small Urbanized": 0,
+         "Large Urbanized": 4463.224,
+         "Population": 1222723
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 166.535,
+         "Small Urban": 14.24,
+         "Small Urbanized": 0,
+         "Large Urbanized": 4429.11,
+         "Population": 1196118
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 165.294,
+         "Small Urban": 14.072,
+         "Small Urbanized": 0,
+         "Large Urbanized": 4375.618,
+         "Population": 1169040
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 212.109,
+         "Small Urban": 0,
+         "Small Urbanized": 230.477,
+         "Large Urbanized": 4081.396,
+         "Population": 1146839
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 211.514,
+         "Small Urban": 0,
+         "Small Urbanized": 229.225,
+         "Large Urbanized": 4062.029,
+         "Population": 1128978
+      }
+   ],
+   "Osceola": [
+      {
+         "YEAR": 2018,
+         "Rural": 304.04,
+         "Small Urban": 167.351,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1097.193,
+         "Population": 336175
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 302.166,
+         "Small Urban": 165.195,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1080.523,
+         "Population": 322649
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 301.055,
+         "Small Urban": 163.913,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1070.738,
+         "Population": 309198
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 300.135,
+         "Small Urban": 162.855,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1062.585,
+         "Population": 298021
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 299.387,
+         "Small Urban": 161.995,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1056.123,
+         "Population": 286600
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 428.003,
+         "Small Urban": 74.411,
+         "Small Urbanized": 1015.182,
+         "Large Urbanized": 0,
+         "Population": 276740
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 427.67,
+         "Small Urban": 74.31,
+         "Small Urbanized": 1013.965,
+         "Large Urbanized": 0,
+         "Population": 269274
+      }
+   ],
+   "Palm Beach": [
+      {
+         "YEAR": 2018,
+         "Rural": 232.141,
+         "Small Urban": 172.819,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3536.09,
+         "Population": 1426293
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 232.656,
+         "Small Urban": 172.861,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3557.238,
+         "Population": 1407321
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 232.468,
+         "Small Urban": 172.861,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3548.672,
+         "Population": 1379866
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 230.785,
+         "Small Urban": 173.325,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3550.068,
+         "Population": 1359654
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 224.558,
+         "Small Urban": 173.316,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3539.205,
+         "Population": 1340130
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 228.443,
+         "Small Urban": 150.301,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3511.755,
+         "Population": 1320578
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 228.116,
+         "Small Urban": 149.941,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3499.792,
+         "Population": 1305360
+      }
+   ],
+   "Pasco": [
+      {
+         "YEAR": 2018,
+         "Rural": 297.277,
+         "Small Urban": 0,
+         "Small Urbanized": 463.156,
+         "Large Urbanized": 1629.733,
+         "Population": 501733
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 288.872,
+         "Small Urban": 0,
+         "Small Urbanized": 448.166,
+         "Large Urbanized": 1564.339,
+         "Population": 489586
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 287.317,
+         "Small Urban": 0,
+         "Small Urbanized": 450.811,
+         "Large Urbanized": 1552.174,
+         "Population": 479802
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 286.552,
+         "Small Urban": 0,
+         "Small Urbanized": 438.624,
+         "Large Urbanized": 1546.057,
+         "Population": 471027
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 285.806,
+         "Small Urban": 0,
+         "Small Urbanized": 435.465,
+         "Large Urbanized": 1539.342,
+         "Population": 464673
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 471.638,
+         "Small Urban": 0,
+         "Small Urbanized": 393.012,
+         "Large Urbanized": 1388.543,
+         "Population": 460850
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 472.187,
+         "Small Urban": 0,
+         "Small Urbanized": 393.335,
+         "Large Urbanized": 1388.861,
+         "Population": 458674
+      }
+   ],
+   "Pinellas": [
+      {
+         "YEAR": 2018,
+         "Rural": 8.208,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3657.503,
+         "Population": 942590
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 8.219,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3661.743,
+         "Population": 934107
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 8.181,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3648.364,
+         "Population": 924056
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 8.176,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3646.52,
+         "Population": 915837
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 8.17,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3637.456,
+         "Population": 909029
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 3.105,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3636.661,
+         "Population": 903584
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 3.105,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3637.161,
+         "Population": 900398
+      }
+   ],
+   "Polk": [
+      {
+         "YEAR": 2018,
+         "Rural": 782.975,
+         "Small Urban": 381.131,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3316.989,
+         "Population": 654985
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 781.522,
+         "Small Urban": 380.138,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3308.811,
+         "Population": 638473
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 776.149,
+         "Small Urban": 376.526,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3278.961,
+         "Population": 623306
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 774.135,
+         "Small Urban": 375.15,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3266.227,
+         "Population": 612117
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 772.975,
+         "Small Urban": 375.273,
+         "Small Urbanized": 0,
+         "Large Urbanized": 3266.367,
+         "Population": 602329
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 1070.439,
+         "Small Urban": 246.69,
+         "Small Urbanized": 3116.106,
+         "Large Urbanized": 0,
+         "Population": 595274
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 1068.832,
+         "Small Urban": 246.294,
+         "Small Urbanized": 3110.245,
+         "Large Urbanized": 0,
+         "Population": 589662
+      }
+   ],
+   "Putnam": [
+      {
+         "YEAR": 2018,
+         "Rural": 1245.063,
+         "Small Urban": 727.001,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 71119
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 1245.063,
+         "Small Urban": 727.001,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 70764
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 1245.132,
+         "Small Urban": 727.047,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 70784
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 1244.345,
+         "Small Urban": 726.514,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 71128
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 1244.25,
+         "Small Urban": 725.429,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 71620
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 1233.355,
+         "Small Urban": 736.128,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 72074
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 1233.24,
+         "Small Urban": 735.773,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 72587
+      }
+   ],
+   "Santa Rosa": [
+      {
+         "YEAR": 2018,
+         "Rural": 729.534,
+         "Small Urban": 0,
+         "Small Urbanized": 315.057,
+         "Large Urbanized": 929.545,
+         "Population": 160850
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 728.143,
+         "Small Urban": 0,
+         "Small Urbanized": 314.194,
+         "Large Urbanized": 926.998,
+         "Population": 156607
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 726.416,
+         "Small Urban": 0,
+         "Small Urbanized": 313.123,
+         "Large Urbanized": 923.836,
+         "Population": 153429
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 725.642,
+         "Small Urban": 0,
+         "Small Urbanized": 312.643,
+         "Large Urbanized": 922.42,
+         "Population": 151412
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 724.289,
+         "Small Urban": 0,
+         "Small Urbanized": 311.804,
+         "Large Urbanized": 919.942,
+         "Population": 149459
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 719.366,
+         "Small Urban": 0,
+         "Small Urbanized": 298.535,
+         "Large Urbanized": 930.074,
+         "Population": 147374
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 718.911,
+         "Small Urban": 0,
+         "Small Urbanized": 298.076,
+         "Large Urbanized": 929.418,
+         "Population": 145838
+      }
+   ],
+   "Sarasota": [
+      {
+         "YEAR": 2018,
+         "Rural": 448.862,
+         "Small Urban": 0,
+         "Small Urbanized": 571.424,
+         "Large Urbanized": 1432.962,
+         "Population": 406524
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 450.93,
+         "Small Urban": 0,
+         "Small Urbanized": 571.424,
+         "Large Urbanized": 1420.312,
+         "Population": 399194
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 448.05,
+         "Small Urban": 0,
+         "Small Urbanized": 569.091,
+         "Large Urbanized": 1384.95,
+         "Population": 392216
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 447.901,
+         "Small Urban": 0,
+         "Small Urbanized": 569.072,
+         "Large Urbanized": 1381.108,
+         "Population": 386179
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 447.921,
+         "Small Urban": 0,
+         "Small Urbanized": 569.072,
+         "Large Urbanized": 1346.828,
+         "Population": 381225
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 492.543,
+         "Small Urban": 0,
+         "Small Urbanized": 553.153,
+         "Large Urbanized": 1312.155,
+         "Population": 377424
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 492.662,
+         "Small Urban": 0,
+         "Small Urbanized": 553.153,
+         "Large Urbanized": 1312.016,
+         "Population": 374662
+      }
+   ],
+   "Seminole": [
+      {
+         "YEAR": 2018,
+         "Rural": 69.828,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1574.117,
+         "Population": 450213
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 69.714,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1570.83,
+         "Population": 444719
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 69.546,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1565.674,
+         "Population": 438777
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 69.472,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1563.431,
+         "Population": 433056
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 69.483,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1563.76,
+         "Population": 428129
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 86.41,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1542.983,
+         "Population": 423306
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 86.144,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 1536.929,
+         "Population": 419655
+      }
+   ],
+   "St. Johns": [
+      {
+         "YEAR": 2018,
+         "Rural": 440.726,
+         "Small Urban": 39.798,
+         "Small Urbanized": 411.846,
+         "Large Urbanized": 394.004,
+         "Population": 232183
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 436.192,
+         "Small Urban": 39.133,
+         "Small Urbanized": 404.904,
+         "Large Urbanized": 387.073,
+         "Population": 223206
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 436.154,
+         "Small Urban": 39.131,
+         "Small Urbanized": 404.877,
+         "Large Urbanized": 387.046,
+         "Population": 215111
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 434.719,
+         "Small Urban": 38.92,
+         "Small Urbanized": 402.68,
+         "Large Urbanized": 384.878,
+         "Population": 207436
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 434.035,
+         "Small Urban": 38.831,
+         "Small Urbanized": 401.727,
+         "Large Urbanized": 383.948,
+         "Population": 200434
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 443.174,
+         "Small Urban": 0,
+         "Small Urbanized": 460.299,
+         "Large Urbanized": 340.669,
+         "Population": 194090
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 445.064,
+         "Small Urban": 0,
+         "Small Urbanized": 454.633,
+         "Large Urbanized": 333.824,
+         "Population": 188447
+      }
+   ],
+   "St. Lucie": [
+      {
+         "YEAR": 2018,
+         "Rural": 196.248,
+         "Small Urban": 0,
+         "Small Urbanized": 111.509,
+         "Large Urbanized": 1461.455,
+         "Population": 302564
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 195.481,
+         "Small Urban": 0,
+         "Small Urbanized": 110.678,
+         "Large Urbanized": 1450.426,
+         "Population": 295908
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 195.465,
+         "Small Urban": 0,
+         "Small Urbanized": 110.472,
+         "Large Urbanized": 1450.489,
+         "Population": 290301
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 195.77,
+         "Small Urban": 0,
+         "Small Urbanized": 110.821,
+         "Large Urbanized": 1455.093,
+         "Population": 285171
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 194.328,
+         "Small Urban": 0,
+         "Small Urbanized": 109.258,
+         "Large Urbanized": 1434.348,
+         "Population": 280952
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 153.979,
+         "Small Urban": 0,
+         "Small Urbanized": 94.133,
+         "Large Urbanized": 1479.447,
+         "Population": 277858
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 154.189,
+         "Small Urban": 0,
+         "Small Urbanized": 94.379,
+         "Large Urbanized": 1482.4,
+         "Population": 274937
+      }
+   ],
+   "Sumter": [
+      {
+         "YEAR": 2018,
+         "Rural": 772.158,
+         "Small Urban": 0,
+         "Small Urbanized": 464.91,
+         "Large Urbanized": 0,
+         "Population": 111518
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 694.134,
+         "Small Urban": 0,
+         "Small Urbanized": 412.894,
+         "Large Urbanized": 0,
+         "Population": 107425
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 668.15,
+         "Small Urban": 0,
+         "Small Urbanized": 395.531,
+         "Large Urbanized": 0,
+         "Population": 104097
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 658.878,
+         "Small Urban": 0,
+         "Small Urbanized": 389.35,
+         "Large Urbanized": 0,
+         "Population": 99135
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 632.772,
+         "Small Urban": 0,
+         "Small Urbanized": 371.946,
+         "Large Urbanized": 0,
+         "Population": 94378
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 685.208,
+         "Small Urban": 131.06,
+         "Small Urbanized": 165.39,
+         "Large Urbanized": 0,
+         "Population": 89121
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 674.818,
+         "Small Urban": 128.506,
+         "Small Urbanized": 162.284,
+         "Large Urbanized": 0,
+         "Population": 84949
+      }
+   ],
+   "Suwannee": [
+      {
+         "YEAR": 2018,
+         "Rural": 1318.024,
+         "Small Urban": 228.837,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 42194
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 1310.574,
+         "Small Urban": 227.167,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 42103
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 1306.474,
+         "Small Urban": 226.267,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 41932
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 1306.527,
+         "Small Urban": 226.274,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 41884
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 1306.527,
+         "Small Urban": 226.274,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 41923
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 1307.118,
+         "Small Urban": 225.683,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 41463
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 1307.118,
+         "Small Urban": 225.683,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 41055
+      }
+   ],
+   "Taylor": [
+      {
+         "YEAR": 2018,
+         "Rural": 665.421,
+         "Small Urban": 251.646,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 18047
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 665.749,
+         "Small Urban": 251.318,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 18218
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 665.74,
+         "Small Urban": 251.327,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 18580
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 665.74,
+         "Small Urban": 251.327,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 18534
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 665.74,
+         "Small Urban": 251.327,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 19002
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 670.093,
+         "Small Urban": 246.974,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 19405
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 669.461,
+         "Small Urban": 246.656,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 19762
+      }
+   ],
+   "Union": [
+      {
+         "YEAR": 2018,
+         "Rural": 251.033,
+         "Small Urban": 76.282,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 9701
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 251.033,
+         "Small Urban": 76.282,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 9948
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 251.033,
+         "Small Urban": 76.282,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 9962
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 251.033,
+         "Small Urban": 76.282,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 9993
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 251.033,
+         "Small Urban": 76.282,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 10315
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 327.315,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 10611
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 327.315,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 10889
+      }
+   ],
+   "Volusia": [
+      {
+         "YEAR": 2018,
+         "Rural": 459.723,
+         "Small Urban": 0,
+         "Small Urbanized": 1191.849,
+         "Large Urbanized": 1724.149,
+         "Population": 517497
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 458.944,
+         "Small Urban": 0,
+         "Small Urbanized": 1188.815,
+         "Large Urbanized": 1719.979,
+         "Population": 508445
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 457.877,
+         "Small Urban": 0,
+         "Small Urbanized": 1185.059,
+         "Large Urbanized": 1714.527,
+         "Population": 500559
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 462.136,
+         "Small Urban": 0,
+         "Small Urbanized": 1200.834,
+         "Large Urbanized": 1737.323,
+         "Population": 493311
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 458.331,
+         "Small Urban": 0,
+         "Small Urbanized": 1186.74,
+         "Large Urbanized": 1717.053,
+         "Population": 487768
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 479.732,
+         "Small Urban": 0,
+         "Small Urbanized": 1066.717,
+         "Large Urbanized": 1811.294,
+         "Population": 484385
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 480.027,
+         "Small Urban": 0,
+         "Small Urbanized": 1067.678,
+         "Large Urbanized": 1812.918,
+         "Population": 482458
+      }
+   ],
+   "Wakulla": [
+      {
+         "YEAR": 2018,
+         "Rural": 772.077,
+         "Small Urban": 299.117,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 28265
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 769.708,
+         "Small Urban": 299.007,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 27982
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 771.531,
+         "Small Urban": 298.847,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 27717
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 771.531,
+         "Small Urban": 298.847,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 27475
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 768.808,
+         "Small Urban": 297.16,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 27342
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 1065.603,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 27262
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 1042.483,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 27087
+      }
+   ],
+   "Walton": [
+      {
+         "YEAR": 2018,
+         "Rural": 1159.934,
+         "Small Urban": 122.778,
+         "Small Urbanized": 108.746,
+         "Large Urbanized": 0,
+         "Population": 63492
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 1140.211,
+         "Small Urban": 120.178,
+         "Small Urbanized": 106.449,
+         "Large Urbanized": 0,
+         "Population": 61124
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 1140.217,
+         "Small Urban": 120.175,
+         "Small Urbanized": 106.447,
+         "Large Urbanized": 0,
+         "Population": 59217
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 1237.294,
+         "Small Urban": 132.972,
+         "Small Urbanized": 117.753,
+         "Large Urbanized": 0,
+         "Population": 57190
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 1237.294,
+         "Small Urban": 132.972,
+         "Small Urbanized": 117.753,
+         "Large Urbanized": 0,
+         "Population": 55439
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 1349.37,
+         "Small Urban": 0,
+         "Small Urbanized": 138.634,
+         "Large Urbanized": 0,
+         "Population": 54363
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 1349.37,
+         "Small Urban": 0,
+         "Small Urbanized": 138.634,
+         "Large Urbanized": 0,
+         "Population": 52939
+      }
+   ],
+   "Washington": [
+      {
+         "YEAR": 2018,
+         "Rural": 1270.533,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 21847
+      },
+      {
+         "YEAR": 2017,
+         "Rural": 1270.533,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 22038
+      },
+      {
+         "YEAR": 2016,
+         "Rural": 1270.533,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 22067
+      },
+      {
+         "YEAR": 2015,
+         "Rural": 1270.58,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 21946
+      },
+      {
+         "YEAR": 2014,
+         "Rural": 1270.58,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 22121
+      },
+      {
+         "YEAR": 2013,
+         "Rural": 1270.58,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 22380
+      },
+      {
+         "YEAR": 2012,
+         "Rural": 1270.572,
+         "Small Urban": 0,
+         "Small Urbanized": 0,
+         "Large Urbanized": 0,
+         "Population": 22461
+      }
+   ]
+}
